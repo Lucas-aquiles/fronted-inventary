@@ -2,7 +2,7 @@ import React from 'react'
 
 const Login = () => {
   return (
-    <div className='w-1/3 border-2 flex flex-col items-center  my-20 bg-white rounded-3xl	p-5	 absolute'>
+    <div className='w-2/3 border-2 flex flex-col items-center  my-20 bg-white rounded-3xl	p-5	 absolute left-0'>
       <h2 className="text-3xl font-bold "> Login</h2>
       <form action="" method="get"  >
   
